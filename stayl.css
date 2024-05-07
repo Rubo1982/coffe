@@ -1,0 +1,242 @@
+.aparat {
+    width: 600px;
+    height: 800px;
+    border: solid 1px black;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+
+}
+
+.nkar {
+    width: 600px;
+    height: 200px;
+    border: solid 1px;
+    background-image: url(./img/slide-02.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.a1 {
+    width: 300px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+}
+
+.c2 {
+    display: flex;
+}
+
+.a2 {
+    width: 300px;
+    height: 600px;
+    border: 1px solid;
+}
+
+.b2 {
+    width: 300px;
+    height: 600px;
+    border: 1px solid;
+}
+
+.a1-1 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/mak.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.a1-2 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+.a1-3{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/amerikana.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+.a1-4 {
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+
+.a1-5{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/capuchino.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.a1-6{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+.a1-7{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/late.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.a1-8{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+.a1-9{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/nescaffe.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.a1-10{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+
+
+.a1-11{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/mat\ tea.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.a1-12{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+.a1-13{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/tea\ karkade.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.a1-14{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+.a1-16{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:chocolate;
+}
+.a1-15{
+    width: 150px;
+    height: 150px;
+    border: 1px solid;
+    background-image: url(./img/sev.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.a1-btn{
+    
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a2-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a3-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a4-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a5-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a6-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a7-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+.a8-btn{
+    width:60px;
+    height: 60px;
+    border-radius:50%;
+}
+button:hover{
+    background-color: aqua;
+}
+
+
+
+
+
+
